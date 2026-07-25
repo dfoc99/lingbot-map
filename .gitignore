@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -5,6 +6,28 @@ build/
 dist/
 wheels/
 *.egg-info
+*.png
 
 # Virtual environments
 .venv
+=======
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.so
+.eggs/
+demo_render/
+CLAUDE.md
+.claude/
+.agents/
+skyseg.onnx
+.claude-remote
+weights/
+.DS_Store
+**/.DS_Store
+docs/
+
+>>>>>>> 1f480aeb8a47a24656090d46d053115b7fe60435
